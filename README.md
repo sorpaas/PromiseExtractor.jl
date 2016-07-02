@@ -1,5 +1,7 @@
 # PromiseExtractor
 
+[![Build Status](https://travis-ci.org/sorpaas/PromiseExtractor.jl.svg?branch=master)](https://travis-ci.org/sorpaas/PromiseExtractor.jl)
+
 A push promise extractor for HTML files.
 
 ## Usage
