@@ -5,7 +5,7 @@ A push promise extractor for HTML files.
 ## Usage
 
 ```julia
-romise_for("""
+promise_for("""
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="example.css">
